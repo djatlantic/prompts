@@ -1,0 +1,17 @@
+Here are 15 non-business ideas that could apply to anyone (easy/cheap to build):
+
+• Personal X research assistant - sends you a report every morning
+• Financial audit/tracker - tracks your income/expenses into a custom app
+• Job application tracker - monitors job boards and auto-fills applications
+• Fitness data aggregator - pulls stats from all your health apps into one view
+• Fitness coach - optimizes your current plan into one app/dashboard
+• Travel deal monitor - tracks flights/hotels for your destinations, alerts on price drops
+• Reading list manager - saves articles to read later, sends digest summaries
+• Subscription auditor - monitors all recurring charges, alerts you to price increases
+• Nutrition tracker - scans meal photos, logs macros, and suggests healthier swaps
+• Sleep quality analyzer - aggregates sleep data, correlates with daily habits, and recommends improvements
+• Home maintenance scheduler - tracks appliance ages, schedules filter changes, and service appointments
+• Prompt library - custom dashboard for tracking your most used/effective prompts
+• Prompt optimizer - a tool that automatically optimizes any prompt you send based on the model used
+• Habit streak monitor - tracks daily habits across apps, visualizes progress, sends motivation
+• Daily journal/notes hub - journal for work, hobbies, gym, reading, etc. - organized into one central hub, then have AI scan for patterns, things to improve, etc.

@@ -1,0 +1,151 @@
+# build a business discord server to manage ai sub-agents
+
+You are setting up a professional Discord server for me to use 
+as my personal AI business command center.
+
+The server should be structured so I can manage multiple AI 
+sub-agents, track their outputs, assign tasks, and review 
+results, all from one organized hub.
+
+STEP 1 — CREATE THE SERVER STRUCTURE
+
+Build the following categories and channels:
+
+COMMAND CENTER
+- #daily-brief (morning reports drop here)
+- #task-queue (where I assign new tasks to agents)
+- #priority-alerts (urgent flags only)
+
+AGENT CHANNELS (one per agent)
+- #agent-openclaw
+- #agent-manus
+- #agent-cowork
+- #agent-perplexity
+
+Each agent channel should have a pinned message with:
+- What this agent is responsible for
+- How to prompt it
+- Expected output format
+
+RESEARCH & OUTPUTS
+- #research-reports
+- #financial-briefs
+- #content-drafts
+- #competitor-intel
+
+OPERATIONS
+- #calendar-sync (morning briefs post here)
+- #completed-tasks (archive of finished work)
+- #errors-and-flags (anything that needs my attention)
+
+PERSONAL
+- #ideas-inbox (brain dump channel)
+- #goals (pinned weekly priorities)
+
+STEP 2 — SET UP ROLES
+
+Create the following roles:
+- Owner (me)
+- Agent (assigned to each sub-agent bot)
+- Reviewer (for any team members reviewing output)
+
+STEP 3 — CONFIGURE PERMISSIONS
+
+- Only Owner can post in #task-queue and #priority-alerts
+- Agents can only post in their designated channels 
+  and output channels
+- All output channels are read-only for humans
+
+STEP 4 — SET UP SUB-AGENT WORKFLOWS
+
+For each agent channel, create a pinned workflow card:
+
+AGENT: [Name]
+TOOL: [OpenClaw / Manus / Cowork / Perplexity]
+TRIGGER: [How to activate]
+INPUT FORMAT: [What to send it]
+OUTPUT: [What it delivers and where it posts]
+FREQUENCY: [Scheduled or on-demand]
+
+STEP 5 — LAUNCH CHECKLIST
+
+Before finishing, confirm:
+- All channels created and categorized
+- All roles assigned with correct permissions
+- Each agent channel has a pinned workflow card
+- #daily-brief is connected to Manus morning brief output
+- #financial-briefs is connected to Perplexity research output
+- Server is clean, professional, and ready to operate
+
+Deliver a summary of everything built when complete.
+
+
+---
+# expert vibe-coder (build anything)
+
+I want you to build [APP/TOOL/IDEA] for me from scratch.
+I will describe what I want in plain English. You handle 
+everything else.
+
+STEP 1 — UNDERSTAND THE BRIEF
+Here is what I want to build:
+
+[DESCRIBE YOUR IDEA IN PLAIN ENGLISH]
+
+Before writing a single line of code, confirm you 
+understand the following:
+- What this tool does
+- Who it is for
+- What the core features are
+- What it should look like
+- What tech stack makes the most sense
+
+Ask me any clarifying questions before proceeding.
+
+STEP 2 — PLAN THE BUILD
+Break the build into clear phases:
+
+PHASE 1: Core structure and layout
+PHASE 2: Main functionality
+PHASE 3: Design and UI polish
+PHASE 4: Testing and bug fixes
+PHASE 5: Final review and delivery
+
+Show me the plan before you start building.
+Get my approval on each phase before moving to the next.
+
+STEP 3 — BUILD PHASE BY PHASE
+
+For each phase:
+- Show me what you are building before you build it
+- Write clean, well-commented code
+- Explain in plain English what each section does
+- Flag any decisions you made and why
+- Show me a preview or screenshot when possible
+
+STEP 4 — HANDLE ERRORS
+If you hit a bug or blocker:
+- Tell me exactly what the issue is in plain English
+- Propose two or three ways to fix it
+- Pick the best one and proceed unless I say otherwise
+- Never get stuck silently. Always flag and move forward.
+
+STEP 5 — ITERATE
+After each phase, ask me:
+- Does this look right?
+- Anything you want changed before we move on?
+- Any features to add or remove?
+
+Incorporate feedback immediately before moving to 
+the next phase.
+
+STEP 6 — FINAL DELIVERY
+When the build is complete, deliver:
+- The full working product
+- A plain English summary of what was built
+- Instructions for how to use it
+- A list of possible next features to add in future
+
+Build it clean. Build it fast. Explain everything 
+as you go. I should be able to understand every 
+decision you make without knowing how to code.

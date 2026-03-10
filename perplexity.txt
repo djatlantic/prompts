@@ -1,0 +1,113 @@
+#Deep Financial Research Report
+You are a senior financial analyst. I want you to conduct a full research report on [ASSET/TICKER].
+
+Go to Perplexity Finance and gather the following data:
+
+PRICE & MARKET DATA
+- Current price, 24h change, 7d change, 30d change
+- Market cap, volume, 52-week high/low
+- Compare performance vs S&P 500 / BTC (depending on asset class)
+
+FUNDAMENTALS (stocks only)
+- Revenue, earnings, EPS, P/E ratio
+- YoY growth rate
+- Next earnings date
+- Analyst consensus rating and average price target
+
+NEWS & SENTIMENT
+- Top 5 most recent news stories
+- Overall sentiment: bullish / neutral / bearish
+- Any major catalysts or upcoming events
+
+INSIDER & INSTITUTIONAL ACTIVITY
+- Recent insider buys or sells
+- Major institutional holders and recent position changes
+
+TECHNICAL PICTURE
+- Is price above or below key moving averages (50d, 200d)?
+- RSI reading — overbought, oversold, or neutral?
+- Key support and resistance levels
+
+Now compile everything into a structured report with these sections:
+
+1. Snapshot — one paragraph summary of where this asset stands today
+2. Bull Case — top 3 reasons to be long
+3. Bear Case — top 3 risks to be aware of
+4. Key Catalysts — upcoming events that could move price
+5. Verdict — one sentence. What does the data say right now?
+
+Format the output cleanly. Use headers. Be direct. No fluff.
+
+
+----
+Perplexity Computer: live news dashboard builder
+I want you to build me a live news dashboard using 
+Perplexity to track everything happening around 
+[TOPIC/INDUSTRY].
+
+STEP 1 — DEFINE THE TOPIC MAP
+Break [TOPIC] down into sub-categories worth tracking.
+
+Example for AI:
+- Model releases and research
+- Company news (Anthropic, OpenAI, Google, Meta)
+- Regulation and policy
+- Business applications and tools
+- Funding and acquisitions
+- Public sentiment and viral moments
+
+Confirm the sub-categories with me before proceeding.
+
+STEP 2 — PULL LIVE DATA
+For each sub-category, search Perplexity for:
+- Top 3 stories from the last 24 hours
+- Top 3 stories from the last 7 days
+- Any breaking developments right now
+
+For each story note:
+- Headline
+- Source
+- Date published
+- One sentence summary
+- Why it matters
+
+STEP 3 — IDENTIFY TRENDS
+Across all the stories you pulled, identify:
+- The 3 biggest themes dominating this week
+- Any narratives that are building momentum
+- Anything that seems underreported but significant
+- Emerging names, companies, or technologies 
+  showing up repeatedly
+
+STEP 4 — BUILD THE DASHBOARD
+Compile everything into a clean, structured dashboard:
+
+TOPIC: [TOPIC]
+LAST UPDATED: [Date and Time]
+
+BREAKING NOW
+[Story] — [Source] — [One line]
+
+THIS WEEK'S TOP STORIES
+[Sub-category]
+1. [Headline] — [Source] — [Summary]
+2. [Headline] — [Source] — [Summary]
+3. [Headline] — [Source] — [Summary]
+(repeat for each sub-category)
+
+KEY TRENDS THIS WEEK
+1. [Trend]
+2. [Trend]
+3. [Trend]
+
+ONES TO WATCH
+[Underreported story or emerging name worth tracking]
+
+STEP 5 — SCHEDULE
+Run this dashboard automatically every [morning/evening] 
+and deliver it to [EMAIL or NOTIFICATION METHOD].
+
+Flag anything that looks like a major breaking story 
+immediately, outside the normal schedule.
+
+

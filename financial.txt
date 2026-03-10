@@ -1,0 +1,85 @@
+Guri Singh
+@heygurisingh
+·
+Mar 5
+GOODBYE, FUND MANAGERS. GOODBYE, BLOOMBERG TERMINAL.
+
+No more $24,000/year subscriptions.
+Claude just turned my laptop into a private quant analyst.
+
+Here are 10 prompts to build your own hedge fund at home ↓
+Guri Singh
+@heygurisingh
+1. Top-Down Macro Analysis
+
+Prompt:
+
+“Search the web (Fed, ECB, latest macro data) for the current macroeconomic context: inflation, interest rates, GDP, employment. Tell me which sectors/assets historically outperform in this exact environment, with 3 comparable historical examples, expected timeframe, and 3 sources.”
+
+2. Portfolio Hedging Strategy
+
+Prompt:
+
+“My portfolio is exposed to [SECTOR/MARKET]. Using current options data and available inverse ETFs, design an efficient hedge: recommended instrument, hedge size (% of portfolio), annualized cost, scenario to activate it, and sources for volatility data.”
+
+3. Short Squeeze Screener
+
+Prompt:
+
+“Using web data (Finviz, Shortquote, news), find 5 stocks with high short interest (>20% of float), elevated borrow rate, and an upcoming catalyst. For each ticker include: % short float, days to cover, catalyst, entry strategy, risk of a failed squeeze, and sources.”
+
+4. M&A Radar
+
+Prompt:
+
+“Search the web for recent financial news: identify 5 companies with rumors or a high probability of being acquired (consolidated sector, attractive valuation, shareholder activism). For each one include: ticker, likely acquirer, historical sector premium, regulatory risk, and 2 sources.”
+
+5. Sentiment vs. Fundamentals Arbitrage
+
+Prompt:
+
+“Search for stocks where market sentiment (negative news, bearish social media tone) clearly diverges from strong underlying fundamentals. Return 6 ideas including: ticker, reason for negative sentiment, why the fundamentals contradict that narrative, technical entry level, and sources.”
+
+6. Crisis Correlation Map
+
+Prompt:
+
+“In the current macro environment, search for assets showing unusual correlations (e.g., gold and equities rising together, or bonds and stocks falling simultaneously). Explain what each anomaly has historically signaled, include 3 trades that would benefit from normalization, and provide sources.”
+
+7. Dividend Danger Radar
+
+Prompt:
+
+“Search for 5 companies with an apparently attractive dividend yield (>5%) but with warning signs (high payout ratio, negative free cash flow, rising debt). For each one include: ticker, current yield, probability of a cut, safer alternatives in the same sector, and sources.”
+
+8. Institutional Positioning Analysis
+
+Prompt:
+
+“Using recent 13F data (WhaleWisdom, Dataroma) and news, tell me which sectors/stocks the top 10 hedge funds are accumulating this quarter vs. the previous quarter. Present new entries, full exits, and increased positions, including the fund name and sources.”
+
+9. Portfolio Hedging Strategy
+
+Prompt:
+
+“My portfolio is exposed to [SECTOR/MARKET]. Using current options data and available inverse ETFs, design an efficient hedge: recommended instrument, hedge size (% of portfolio), annualized cost, scenario to activate it, and sources for volatility data.”
+
+10. Automatable Weekly Report
+
+Prompt:
+
+“Every Monday, search the web for:
+
+1. the 3 most relevant macro events of the week,
+
+2. important earnings with estimates,
+
+3. sectors with the highest capital flow,
+
+4. one long idea and one short idea with clear levels,
+
+5. the ‘risk of the week’ to watch.
+
+Format: 1-page executive briefing with all sources linked.”
+
+

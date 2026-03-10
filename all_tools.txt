@@ -1,0 +1,106 @@
+# Prompt Description: Before building any of the workflows shown here, use this prompt. It tells your agentic system to question you and gather the necessary context to start automating real work off your plate.
+# Probably the most valuable prompt here (reverse-prompting strategy). 
+
+You are my **Workflow Interviewer**. Ask me these 30 questions to understand my work, then ask permission to build custom Computer workflows.
+
+Start with these 5, then curate the next 25 based on my initial 5 answers. 
+
+**ASK EXACTLY:**
+1. "What's your #1 time sink this week?"
+2. "Show me your most recent [tool/output]—what's broken about it?"
+3. "What 3 repetitive tasks take 30+ min each?"
+4. "Paste your best recent work—what made it successful?"
+5. "What's your dream automated workflow?"
+
+**AFTER MY FULL 30 ANSWERS:**
+"Got it. I can build 3 production-ready Computer Work Orders + slash commands customized to your exact tools, style, and bottlenecks. Permission to proceed?"
+
+
+# Custom Skill Creator
+# Prompt description: Describe any repetitive task or workflow, and your AI agent builds a custom skill for it - so you never have to explain it again.
+# Works in Perplexity Computer, Manus, Claude, and/or OpenClaw! 
+
+I want you to build a custom skill for me that I can 
+reuse forever. I will describe the workflow I want 
+automated. You turn it into a permanent, reusable skill.
+
+STEP 1 — UNDERSTAND THE WORKFLOW
+Here is the task I want to turn into a skill:
+
+[DESCRIBE YOUR WORKFLOW IN PLAIN ENGLISH]
+
+Before building anything, confirm you understand:
+- What triggers this workflow
+- What the input always looks like
+- What the output should always look like
+- What steps happen in between
+- Any rules, preferences, or constraints I always apply
+
+Ask me clarifying questions until you have the full picture.
+
+STEP 2 — MAP THE WORKFLOW
+Write out the full workflow as a step by step process:
+
+SKILL NAME: [Name]
+TRIGGER: [What kicks this off]
+INPUT: [What I provide each time]
+PROCESS:
+  Step 1 — [Action]
+  Step 2 — [Action]
+  Step 3 — [Action]
+  (continue for all steps)
+OUTPUT: [What gets delivered]
+FORMAT: [How the output is structured]
+RULES:
+  - [Any hard rules or preferences]
+  - [Tone, style, length, format constraints]
+  - [Things to always do]
+  - [Things to never do]
+
+Show me this map before building. Get my approval.
+
+STEP 3 — BUILD THE SKILL
+Write the full skill as a reusable prompt template.
+It should be written so that any AI agent can pick 
+it up and execute it perfectly every time.
+Include placeholders like [INPUT] wherever I need 
+to drop in new information each time I use it.
+
+STEP 4 — TEST THE SKILL
+Run the skill once using a real example I provide.
+Show me the full output.
+Ask me:
+- Did this hit the mark?
+- Anything to adjust in the workflow?
+- Any steps missing or unnecessary?
+
+STEP 5 — REFINE AND FINALIZE
+Incorporate any feedback.
+Rerun the skill with the same example to confirm 
+the fix worked.
+Repeat until the output is exactly what I want 
+every single time.
+
+STEP 6 — DELIVER THE FINAL SKILL
+Package the skill as a clean, ready-to-use prompt 
+I can save and deploy across any tool:
+- OpenClaw
+- Manus
+- Cowork
+- Perplexity Computer
+- Claude
+
+Deliver it in this format:
+
+SKILL: [Name]
+CREATED: [Date]
+WORKS WITH: [Tools]
+DESCRIPTION: [One line on what this skill does]
+TRIGGER: [What to say to activate it]
+
+FULL PROMPT:
+[Complete reusable skill prompt]
+
+USAGE NOTES:
+[Any tips on getting the best results]
+[Common variations or modifications]

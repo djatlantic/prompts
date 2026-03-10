@@ -1,0 +1,152 @@
+# complete desktop file cleanse
+
+I want you to do a full clean and reorganization of my 
+computer. You have access to my file system. Go through 
+everything and do the following:
+
+STEP 1 — FULL SYSTEM SCAN
+Navigate into every major directory:
+- Desktop
+- Downloads
+- Documents
+- Pictures
+- Videos
+- Applications
+- Any other folders with significant file count
+
+For each folder, catalog what's inside. Note file types, 
+sizes, dates last modified, and anything that looks 
+like clutter.
+
+STEP 2 — IDENTIFY DUPLICATES
+Scan across all folders for duplicate files.
+Flag any file that appears more than once, even if 
+stored in different locations or under slightly 
+different names.
+Do not delete anything yet. List them for my review.
+
+STEP 3 — FLAG JUNK AND DEAD WEIGHT
+Identify and list:
+- Old installers and .dmg / .exe files
+- Temp and cache files taking up space
+- Empty folders
+- Files that haven't been opened in 12+ months
+- Screenshots and downloads that are clearly one-time use
+
+STEP 4 — PROPOSE A FOLDER STRUCTURE
+Based on what you find, recommend a clean folder 
+structure that makes sense for how I actually work.
+Show me the proposed structure before moving anything.
+
+STEP 5 — EXECUTE THE REORGANIZATION
+Once I approve, go into the folders and move files 
+into the new structure.
+Rename anything that has unclear or messy file names.
+Keep the logic consistent throughout.
+
+STEP 6 — CLEAR THE JUNK
+Move confirmed junk to Trash.
+Do not permanently delete anything without asking me first.
+Show me a list of what you're moving to Trash before 
+you do it.
+
+S
+
+
+# humanize any writing
+
+I want you to take the following piece of writing and 
+completely humanize it. Make it sound like a real person 
+wrote it. Not an AI. Not a robot. A human with a voice, 
+an opinion, and a personality.
+
+HERE IS THE WRITING:
+[PASTE TEXT HERE]
+
+STEP 1 — DIAGNOSE THE PROBLEMS
+Before rewriting, identify exactly what makes this 
+writing sound artificial:
+
+- Overly formal or stiff sentence structure
+- Repetitive sentence length and rhythm
+- Generic filler phrases and AI slop
+- Lack of personality or point of view
+- Unnatural transitions
+- Words nobody actually says out loud
+- Missing contractions, casual language, natural flow
+- Any other red flags
+
+List every issue before touching the text.
+
+STEP 2 — DEFINE THE VOICE
+Before rewriting, confirm the following:
+
+TONE: [Casual / Professional / Conversational / Other]
+AUDIENCE: [Who is reading this]
+PLATFORM: [Where this will be published]
+PERSONALITY: [How should the writer come across]
+LENGTH: [Keep same length / Shorten / Expand]
+
+Ask me if any of these are unclear.
+
+STEP 3 — REWRITE THE PIECE
+Now rewrite the full piece with these rules:
+
+SENTENCE STRUCTURE
+- Vary sentence length deliberately
+- Mix short punchy sentences with longer ones
+- Never write three sentences the same length in a row
+- Start sentences with And, But, Or when it fits naturally
+
+VOCABULARY
+- Use words real people actually say
+- Remove any word that sounds like it came from 
+  a thesaurus
+- Cut filler phrases completely:
+  - "It is worth noting that"
+  - "In conclusion"
+  - "It is important to"
+  - "Delve into"
+  - "In today's world"
+  - "Furthermore"
+  - Any variation of these
+
+PERSONALITY
+- Add a point of view where appropriate
+- Use contractions naturally
+- Include at least one moment that feels personal 
+  or specific
+- Write like someone who actually cares about 
+  the topic
+
+FLOW
+- Read every sentence out loud in your head
+- If it sounds unnatural, rewrite it
+- Transitions should feel effortless not mechanical
+
+STEP 4 — SIDE BY SIDE COMPARISON
+Present the output like this:
+
+ORIGINAL:
+[Original paragraph]
+
+REWRITTEN:
+[Humanized version]
+
+Do this for each major section so I can see 
+exactly what changed and why.
+
+STEP 5 — SCORE THE OUTPUT
+After rewriting, rate the final piece on:
+
+HUMAN SCORE: [1-10]
+NATURALNESS: [1-10]
+PERSONALITY: [1-10]
+AI DETECTION RISK: [Low / Medium / High]
+
+If any score is below 8, identify what still needs 
+work and fix it before delivering the final version.
+
+STEP 6 — FINAL DELIVERY
+Deliver the complete rewritten piece in full.
+Clean. Ready to publish. Sounds like a human wrote it.
